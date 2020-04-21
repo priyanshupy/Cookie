@@ -1,0 +1,140 @@
+body {
+    background: url("Biscuits.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+	padding-left: 50px;
+
+	
+}
+
+ body,html {
+    cursor: grab;
+}
+#head{
+	 display:inline-block;
+	 border :10px groove 	rgb(139,69,19);
+	 font-size:150%;
+	 padding:10px;
+	 color:rgb(128,128,0);
+	 font-family:"Annie Use Your Telescope";
+	 margin:5%;
+	 background-color:rgb(153,153,0);
+	 background-image:url("http://img.freepik.com/free-vector/beige-geometric-background_1378-203.jpg?size=338&ext=jpg");
+	 background-size:cover;
+	 text-decoration:none;
+}
+
+#id1{
+	color:rgb(165,42,42);
+	font-family:"Comic Sans MS";
+	}
+
+#id2{
+	background-image:url("https://cdn.pixabay.com/photo/2016/08/02/18/06/paper-1564393_960_720.jpg");/*wheat color*/
+	color:	rgb(139,69,19);
+	background-size:cover;
+	font-family:"Comic Sans MS";
+	font-size:150%;
+}
+#id3{
+	color:	rgb(139,69,19);
+	font-family:"Comic Sans MS";
+	font-size:120%;
+	background-size:cover;
+	background-image:url("https://cdn.pixabay.com/photo/2016/08/02/18/06/paper-1564393_960_720.jpg");/*color-wheat*/
+	background-color:rgb(204,204,0);
+}
+
+.image { 
+   position: relative; 
+   width: 100%;
+}
+
+#demo { 
+   position: absolute; 
+   top: 530px; 
+   left: 250px; 
+   width: 60%; 
+   font-size:180%;
+   font-family:"Comic Sans MS";
+   color: rgb(204,204,0);           
+   background-color:	rgb(255,255,0);
+   background-image:url("https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif");
+   border :5px solid rgb(102,102,0);
+}
+
+
+#check{
+	font-size:70%;
+   font-family:"Comic Sans MS";
+   
+}
+
+#check1{
+	font-size:70%;
+   font-family:"Comic Sans MS";
+   
+}
+#check2{
+	font-size:70%;
+   font-family:"Comic Sans MS";
+   color:	rgb(139,69,19);
+}
+
+
+div.login{
+	color:	rgb(139,69,19);
+	width:45%;
+	font-family:"Comic Sans MS";
+	font-size:130%;
+	background-size:cover;
+	background-image:url("https://cdn.pixabay.com/photo/2016/08/02/18/06/paper-1564393_960_720.jpg");
+	border :5px solid 	rgb(139,69,19);
+}
+
+
+div.signup{
+	color:	rgb(139,69,19);
+	width:60%;
+	font-family:"Comic Sans MS";
+	font-size:130%;
+	background-size:cover;
+	background-image:url("https://cdn.pixabay.com/photo/2016/08/02/18/06/paper-1564393_960_720.jpg");
+	border :5px solid 	rgb(139,69,19);
+}
+.ed /*extradetailing*/
+{
+	font-weight:bold;
+	font-size:80%;
+   font-family:"Comic Sans MS";
+   color:	rgb(139,69,19); 
+   border :3px solid 	rgb(139,69,19));
+}
+#bt /*extra detailing for button*/
+{  
+   text-decoration:none; 
+   background-color:	rgb(139,69,19);
+   border: 8px solid transparent;
+	 border-image: url("http://dl.glitter-graphics.com/pub/3297/3297996jhk3cxp0nf.gif") 20 ;
+	 
+	 background-image:url("https://static.vecteezy.com/system/resources/previews/000/112/095/non_2x/purple-free-vector-watercolor-texture.jpg");
+	 padding:5px;
+   font-size:100%;
+   font-family:"Comic Sans MS";
+   color:	rgb(139,69,19);
+      
+}
+
+
+p.ps{
+	font-family:"Comic Sans MS";
+	color:	rgb(204,204,0);
+	font-size:60%
+}
+
+p.star{
+	display:inline;
+	color:	rgb(204,204,0);
+	font-size:120%
+}
+
